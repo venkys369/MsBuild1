@@ -1,0 +1,17 @@
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\MsBuild_Project.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\bin\Debug\netcoreapp2.1\MsBuild_Project.pdb
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+F:\Lex\MsBuild_Project\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

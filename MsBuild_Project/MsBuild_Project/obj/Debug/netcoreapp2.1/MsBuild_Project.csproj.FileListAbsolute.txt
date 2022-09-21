@@ -1,0 +1,11 @@
+F:\Lex\MsBuild_Project\MsBuild_Project\bin\Debug\netcoreapp2.1\MsBuild_Project.deps.json
+F:\Lex\MsBuild_Project\MsBuild_Project\bin\Debug\netcoreapp2.1\MsBuild_Project.runtimeconfig.json
+F:\Lex\MsBuild_Project\MsBuild_Project\bin\Debug\netcoreapp2.1\MsBuild_Project.runtimeconfig.dev.json
+F:\Lex\MsBuild_Project\MsBuild_Project\bin\Debug\netcoreapp2.1\MsBuild_Project.dll
+F:\Lex\MsBuild_Project\MsBuild_Project\bin\Debug\netcoreapp2.1\MsBuild_Project.pdb
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.csprojAssemblyReference.cache
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.csproj.CoreCompileInputs.cache
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.AssemblyInfoInputs.cache
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.AssemblyInfo.cs
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.dll
+F:\Lex\MsBuild_Project\MsBuild_Project\obj\Debug\netcoreapp2.1\MsBuild_Project.pdb
